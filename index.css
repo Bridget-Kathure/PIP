@@ -1,0 +1,28 @@
+body{   
+ background-image: url(fastfoods.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+
+
+}
+.icons{
+   margin-left: 5%; 
+
+}
+#container{
+    display: grid;
+    grid-template-columns: 40% 40%;
+
+}
+.input{
+    padding: 12px 12px;
+    width: 40%;
+    border-radius: 5px;
+    border-color: brown;
+}
+.button{
+    padding: 12px;
+    background-color: black;
+    color: white;
+}
+
